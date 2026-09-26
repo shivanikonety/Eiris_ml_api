@@ -32,6 +32,9 @@ uvicorn app.main:app --reload --port 8000
 
 http://localhost:8000/docs
 
+**###deployment link**
+https://iris-ml-api-sgz9.onrender.com
+
 ## Endpoint
 
 POST /predict
