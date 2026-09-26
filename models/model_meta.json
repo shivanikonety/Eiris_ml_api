@@ -1,0 +1,18 @@
+{
+    "model": "Random Forest Classifier",
+    "dataset": "Iris Dataset",
+    "features": [
+        "sepal length (cm)",
+        "sepal width (cm)",
+        "petal length (cm)",
+        "petal width (cm)"
+    ],
+    "classes": [
+        "setosa",
+        "versicolor",
+        "virginica"
+    ],
+    "accuracy": 0.9,
+    "test_size": 0.2,
+    "random_state": 42
+}
